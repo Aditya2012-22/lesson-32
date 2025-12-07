@@ -1,0 +1,8 @@
+/*Global Propeerties*/
+html {
+    scroll-behavior: smooth;
+}
+body {
+    background: #252525;
+    font-family: "Ballo Tamma 2", cursive;
+}
